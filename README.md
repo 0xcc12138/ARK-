@@ -15,3 +15,10 @@
 3.对这些EPROCESS进行校验，因为实践发现，不合法的EPROCESS实在是太多了，原理是`EPROCESS->SectionObject(_SECTION)->ControlArea (_CONTROL_AREA)->FilePointer( _FILE_OBJECT)`( [win10 1511版本之后，_SECTION_OBJECT结构体哪去了？ - WINDOWS核心编程 - 紫水晶编程技术论坛 - 努力打造成全国最好的编程论坛 - Powered by Discuz!](http://www.m5home.com/bbs/thread-9466-1-1.html) )
 
 4.剩下的就打包发给三环进行显示
+
+
+
+效果图（有点拙劣，后续改进）
+
+![1732590095209](README/1732590095209.png)
+
