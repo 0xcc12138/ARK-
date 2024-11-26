@@ -1,0 +1,14 @@
+﻿  Building 'Search_Processes' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  main.cpp
+F:\viusal studio document\麦洛克非系统安全\Ark工具开发\暴力搜索进程\Search_Processes\main.cpp(7,23): warning C4459: “pKevent”的声明隐藏了全局声明
+F:\viusal studio document\麦洛克非系统安全\Ark工具开发\暴力搜索进程\Search_Processes\main.h(22,13): message : 参见“pKevent”的声明
+  Search.cpp
+F:\viusal studio document\麦洛克非系统安全\Ark工具开发\暴力搜索进程\Search_Processes\Search.cpp(152,47): warning C4459: “count”的声明隐藏了全局声明
+F:\viusal studio document\麦洛克非系统安全\Ark工具开发\暴力搜索进程\Search_Processes\Search.cpp(3,5): message : 参见“count”的声明
+  正在生成代码...
+  Search_Processes.vcxproj -> F:\viusal studio document\麦洛克非系统安全\Ark工具开发\暴力搜索进程\Search_Processes\x64\Debug\Search_Processes.sys
+  Done Adding Additional Store
+  Successfully signed: F:\viusal studio document\\Ark\\Search_Processes\x64\Debug\Search_Processes.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  

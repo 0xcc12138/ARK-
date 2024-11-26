@@ -1,0 +1,17 @@
+﻿   Qt/MSBuild: 3.3.0.13
+  Reading Qt configuration (D:/Qt/Qt5.12.8/5.12.8/msvc2017_64/bin/qmake)
+   Qt: 5.12.8
+  uic Dispaly.ui
+  rcc Dispaly.qrc
+  moc Dispaly.h
+   RCC: Warning: No resources in 'F:\viusal studio document\楹︽礇鍏嬮潪绯荤粺瀹夊叏\Ark宸ュ叿寮€鍙慭鏆村姏鎼滅储杩涚▼\Dispaly\Dispaly.qrc'.
+  Dispaly.cpp
+  main.cpp
+F:\viusal studio document\麦洛克非系统安全\Ark工具开发\暴力搜索进程\Dispaly\Dispaly.cpp(94,33): warning C4129: “S”: 不可识别的字符转义序列
+  qrc_Dispaly.cpp
+  moc_Dispaly.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 70 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Dispaly.vcxproj -> F:\viusal studio document\麦洛克非系统安全\Ark工具开发\暴力搜索进程\Dispaly\x64\Release\Dispaly.exe
